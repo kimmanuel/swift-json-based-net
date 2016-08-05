@@ -1,0 +1,6 @@
+framework module Pods_json_based_net {
+  umbrella header "Pods-json-based-net-umbrella.h"
+
+  export *
+  module * { export * }
+}
